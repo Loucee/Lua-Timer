@@ -1,4 +1,4 @@
-# Lua-Timer
+# timer.lua
 This is a stand-alone version of the timer module in my Löve2D state-manager [Soupy](https://github.com/Loucee/Soupy)
 
 It's only one file, easy to use, and doesn't require any external modules.
